@@ -1,5 +1,9 @@
 # FI podium predictions
-
+> **Milestone 1 final submission**
+> - Notebook: `aclFinal.ipynb` (same as the Kaggle notebook)
+> - Report: `F1_Podium_Prediction_Report_Final.pdf`
+>
+> The other notebooks and `F1_Podium_Prediction_Report.pdf` are earlier work by team members, kept for history.
 omar hamdy
 
 This repository holds one notebook, `feature 1 , 2 , 3.ipynb`. It cleans the Formula 1 results, builds a leakage-safe feature table, and answers three questions about the data.
